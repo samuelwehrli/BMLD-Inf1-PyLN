@@ -8,6 +8,7 @@ Wir verwenden ein Punktesystem zur Bewertung. Dieser Leistungsnachweis erreicht 
 ### Inhalt
 
 - Neue Fragestellung
+- Verwendung mehrerer Datenquellen
 - Rohdatenanalyse 
 - Inhaltliche Analyse 
 - Plausibilisierung 
