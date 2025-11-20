@@ -1,37 +1,18 @@
-# BMLD-Inf1-PyLN
-Leistungsnachweis Python - BMLD Informatik 1 
+# Veränderungen in der Lebenserwartung
 
-## Bewertung 
+Beispiel Leistungsnachweis Python (BMLD Informatik 1)
 
-Wir verwenden ein Punktesystem zur Bewertung. Dieser Leistungsnachweis erreicht ca. 18 Punkte von möglichen 26 Punkten. Die folgenden Kriterien werden berücksichtigt:
+## Team
 
-### Inhalt
+Am Projekte arbeiten
+- Samuel Wehrli (wehs@zhw.ch)
+- Dominik Kunz (kuzz@zhaw.ch)
+- Ka Men Ho (hokam001@students.zhaw.ch)
 
-- Neue Fragestellung
-- Verwendung mehrerer Datenquellen
-- Rohdatenanalyse 
-- Inhaltliche Analyse 
-- Plausibilisierung 
-- Originalität 
-- Darstellung 
+> WICHTIG: Eure Studi-Emails müssen hier stehen, damit wir identifizieren können, wer am Projekt mitarbietet
 
-(Maximal ca. 8 Punkte, in diesem Fall ca. 5 Punkte, da keine neue Fragestellung vorhanden ist)
+## Projektidee
 
-### Grundlegende Programmierkonzepte 
+Wir untersuchen, wo in den letzten 10 Jahren die Lebenserwartung am meisten zugenommen hat und wo sie abgenommen hat. Und recherchieren mögliche Gründe dafür
 
-Verwendung grundlegender Python-Konzepte wie `for`, `if`, `function`, `list`, `dict`, etc.
-
-(Maximal ca. 5 Punkte, hier ca. 4 Punkte)
-
-### Pandas
-
-Verwendung von Pandas-Methoden: read arguments, melt, pivot, pivot_table, concat, merge 
-
-(Maximal ca. 5 Punkte, hier ca. 1 Punkt, da nur `pivot` verwendet wurde)
-
-### Visualisierung
-
-Vewendung verschiedener Visualisierungs-Elemente: Diagramme, Annotations, Titel, Legenden, zusätzliche Features (Linien, Text), Achsenverhältnisse 
-
-(Maximal ca. 8 Punkte, hier ca. 8 Punkte)
 
